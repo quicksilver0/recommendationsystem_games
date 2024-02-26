@@ -1,21 +1,15 @@
-# Тестовое задание
-Тестовое задание на позицию Data Scientist Engineer
+# Exploration of the dataset with recommendations system implementation
+You can find exploration of the dataset in colab notebook [Games_dataset_exploration_and_recommendation](https://colab.research.google.com/drive/1k82Q0hNYD8oQHkiPLEPnwiAQnm2fdcvR?usp=sharing)
 
-Привет! Мы рады представить тебе захватывающее задание, специально разработанное для тестирования твоих навыков в области машинного обучения!
-
-## Описание задания
-
-### Обзор
-Твое задание - исследовать и разработать рекомендательную систему, ориентированную на пользовательскую активность в играх. Мы предоставляем тебе датасет [ml_test_rec_sys.parquet](https://github.com/maxbitbit/Test-task/blob/main/ml_test_rec_sys.parquet), который содержит ценную информацию о пользовательской активности.
-
-### Цели задания
-1. **Изучение данных**: Проведи анализ предоставленных данных, выдвинь гипотезы о пользовательском поведении и визуализируй свои находки.
-2. **Важность данных**: Определи, какие аспекты данных наиболее значимы для рекомендаций и обоснуй свой выбор.
-3. **Разработка системы**: Создай рекомендательную систему, используя методы машинного обучения. Протестируй разные модели, оцени их качество и выбери наилучший вариант.
-4. **Персонализация**: Разработай механизм, предлагающий пользователю игры на основе его интересов и поведения.
-
-## Представление результата
-Мы ждем твоего решения в течении недели. После завершения задания, пожалуйста, размести свое решение в гит-репозитории и отправь нам ссылку на него. Мы с нетерпением ждем твоего решения!
-
-## Пожелания
-Желаем тебе удачи и надеемся увидеть твои интересные идеи и подходы в решении этого задания!
+## Contents overview
+1. Installs
+2. EDA (Explorative Data Analysis)
+  - Visualize distribution and form of data
+  - Findings and first Hypothesis
+  - Facets and Hypothesis testing
+3. Stopping right here
+  - Cramers V interpretation
+4. Recommendation system
+  - Simple predictor
+  - Recommendation using ML model
+5. Conclusion
