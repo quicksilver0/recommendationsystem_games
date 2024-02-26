@@ -1,5 +1,5 @@
-# Exploration and recommendations system
-You can find exploration of the dataset in colab notebook [Games_dataset_exploration_and_recommendation](https://colab.research.google.com/drive/1k82Q0hNYD8oQHkiPLEPnwiAQnm2fdcvR?usp=sharing)
+# Exploration and recommendation system
+Exploration of the dataset can be found in colab [Games_dataset_exploration_and_recommendation](https://colab.research.google.com/drive/1k82Q0hNYD8oQHkiPLEPnwiAQnm2fdcvR?usp=sharing)
 
 ## Contents overview
 1. Installs
